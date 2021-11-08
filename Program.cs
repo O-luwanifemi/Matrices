@@ -22,8 +22,9 @@ namespace Matrices
             };
 
             var matrix = new Matrix();
-            
-            //matrix.Determinant(matrixA);
+
+            matrix.Determinant(matrixA);
+
             Matrix.Multiply(matrixA, matrixB);
         }
     }
