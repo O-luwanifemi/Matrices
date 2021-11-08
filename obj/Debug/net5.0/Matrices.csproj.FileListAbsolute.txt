@@ -1,0 +1,16 @@
+C:\Users\support\Desktop\Projects\c#\Matrices\Matrices\bin\Debug\net5.0\Matrices.exe
+C:\Users\support\Desktop\Projects\c#\Matrices\Matrices\bin\Debug\net5.0\Matrices.deps.json
+C:\Users\support\Desktop\Projects\c#\Matrices\Matrices\bin\Debug\net5.0\Matrices.runtimeconfig.json
+C:\Users\support\Desktop\Projects\c#\Matrices\Matrices\bin\Debug\net5.0\Matrices.runtimeconfig.dev.json
+C:\Users\support\Desktop\Projects\c#\Matrices\Matrices\bin\Debug\net5.0\Matrices.dll
+C:\Users\support\Desktop\Projects\c#\Matrices\Matrices\bin\Debug\net5.0\ref\Matrices.dll
+C:\Users\support\Desktop\Projects\c#\Matrices\Matrices\bin\Debug\net5.0\Matrices.pdb
+C:\Users\support\Desktop\Projects\c#\Matrices\Matrices\obj\Debug\net5.0\Matrices.csproj.AssemblyReference.cache
+C:\Users\support\Desktop\Projects\c#\Matrices\Matrices\obj\Debug\net5.0\Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\support\Desktop\Projects\c#\Matrices\Matrices\obj\Debug\net5.0\Matrices.AssemblyInfoInputs.cache
+C:\Users\support\Desktop\Projects\c#\Matrices\Matrices\obj\Debug\net5.0\Matrices.AssemblyInfo.cs
+C:\Users\support\Desktop\Projects\c#\Matrices\Matrices\obj\Debug\net5.0\Matrices.csproj.CoreCompileInputs.cache
+C:\Users\support\Desktop\Projects\c#\Matrices\Matrices\obj\Debug\net5.0\Matrices.dll
+C:\Users\support\Desktop\Projects\c#\Matrices\Matrices\obj\Debug\net5.0\ref\Matrices.dll
+C:\Users\support\Desktop\Projects\c#\Matrices\Matrices\obj\Debug\net5.0\Matrices.pdb
+C:\Users\support\Desktop\Projects\c#\Matrices\Matrices\obj\Debug\net5.0\Matrices.genruntimeconfig.cache
